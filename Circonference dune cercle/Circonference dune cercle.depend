@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694618942 source:c:\users\youcode\documents\c project\firstproject\challenges\circonference dune cercle\main.c
+	<stdio.h>
+	<stdlib.h>
+

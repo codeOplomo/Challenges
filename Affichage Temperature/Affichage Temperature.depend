@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694612304 source:c:\users\youcode\documents\c project\firstproject\challenges\affichage temperature\main.c
+	<stdlib.h>
+	<stdio.h>
+
