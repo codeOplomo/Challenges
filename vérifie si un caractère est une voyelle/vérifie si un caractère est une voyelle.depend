@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694636042 source:c:\users\youcode\documents\c project\firstproject\challenges\vérifie si un caractère est une voyelle\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694634342 source:c:\users\youcode\documents\c project\firstproject\challenges\affichage de la valeur octale et hexadécimale équivalente\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694633675 source:c:\users\youcode\documents\c project\firstproject\challenges\nombre entier en ordre inverse\main.c
+	<stdio.h>
+	<stdlib.h>
+

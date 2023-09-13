@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694638874 source:c:\users\youcode\documents\c project\firstproject\challenges\equation deuxième degré\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
