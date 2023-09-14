@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694641822 source:c:\users\youcode\documents\c project\firstproject\challenges\ vérifier si le nombre donné est positif, négatif ou nul\main.c
+	<stdio.h>
+	<stdlib.h>
+

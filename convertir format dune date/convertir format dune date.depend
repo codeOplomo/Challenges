@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694684779 source:c:\users\youcode\documents\c project\firstproject\challenges\convertir format dune date\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694677061 source:c:\users\youcode\documents\c project\firstproject\challenges\vérifier si le caractère est un alphabet majuscule\main.c
+	<stdio.h>
+	<stdlib.h>
+

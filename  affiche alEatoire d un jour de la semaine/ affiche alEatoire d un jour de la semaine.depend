@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694690487 source:c:\users\youcode\documents\c project\firstproject\challenges\ affiche aleatoire d un jour de la semaine\main.c
+	<stdio.h>
+	<stdlib.h>
+

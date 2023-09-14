@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694680910 source:c:\users\youcode\documents\c project\firstproject\challenges\determine si un caractere fait partie des alphabets ou non\main.c
+	<stdio.h>
+	<stdlib.h>
+
